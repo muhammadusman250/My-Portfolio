@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { FaGithub, FaLinkedin, FaGoogle } from "react-icons/fa";
 
 export default function Footer() {
@@ -32,7 +31,7 @@ export default function Footer() {
         <div>
           <hr className="my-8 border-gray-600" />
           <p className="text-sm">
-            © 2024 Muhammad Usman Farooq. All rights reserved.
+            &copy; 2024 Muhammad Usman Farooq. All rights reserved.
           </p>
         </div>
       </div>

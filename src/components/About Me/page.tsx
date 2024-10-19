@@ -20,9 +20,9 @@ export default function AboutMe() {
             </li>
             <br />
             <li className="pl-4 max-sm:pl-2">
-              Currently, I'm pursuing Pre-Engineering at Adamjee Government
+              Currently, I&apos;m pursuing Pre-Engineering at Adamjee Government
               Science College. I constantly hone my development skills through
-              personal projects and hands-on learning. Whether it's building
+              personal projects and hands-on learning. Whether it&apos;s building
               responsive, eye-catching interfaces or deploying optimized apps on
               platforms like Vercel, I always aim to deliver clean, efficient,
               high-quality code in everything I do.

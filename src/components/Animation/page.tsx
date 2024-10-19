@@ -8,9 +8,9 @@ export default function TypingAnimation() {
     <div className="py-8 text-color-01">
       <h1 className="text-3xl px-2 font-bold max-sm:text-xl max-lg:text-2xl">Hello !!</h1>
       <h1 className="text-5xl pb-5 font-bold max-sm:text-3xl max-lg:text-4xl">
-        I'm <span className="text-white">Muhammad Usman</span>
+        I&apos;m <span className="text-white">Muhammad Usman</span>
       </h1>
-      <span className="text-4xl font-bold max-sm:text-2xl max-lg:text-3xl">I'm a Passionate </span>
+      <span className="text-4xl font-bold max-sm:text-2xl max-lg:text-3xl">I&apos;m a Passionate </span>
       <br/>
       <ReactTyped
         strings={["Front-End Developer.", "Web Developer.", "UI/UX Designer."]}
