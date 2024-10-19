@@ -21,7 +21,7 @@ export default function TypingAnimation() {
       />
       <h1 className="text-white text-2xl w-3/4 py-5 font-sans max-sm:text-lg max-sm:w-full max-lg:w-full">
         I am passionate about creating stunning web applications with a focus on
-        responsive design, modern UI/UX, and clean code. Let's build something
+        responsive design, modern UI/UX, and clean code. Let&apos;s build something
         great together!
       </h1>
       <div className="py-8">
